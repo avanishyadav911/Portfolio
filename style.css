@@ -433,8 +433,10 @@ span {
     .contact form .input-box input {
         width: 100%;
     }
+    section {
     min-height: 50vh;
     padding: 10rem 9% 2rem;
+}
 }
 @media (max-width: 365px){
     .home-img img {
@@ -452,4 +454,8 @@ span {
         text-align: center;
         margin-top: 2rem;
     }
+    section {
+    min-height: 50vh;
+    padding: 10rem 9% 2rem;
+}
 }
