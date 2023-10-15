@@ -440,6 +440,8 @@ span {
     }
     .about-img img {
         width: 90vw;
+        margin-top: 0rem;
+        margin-bottom: -2rem;
     }
     .footer{
         flex-direction: column-reverse;
