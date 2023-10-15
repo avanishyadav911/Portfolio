@@ -426,7 +426,7 @@ span {
         grid-template-columns: 1fr;
     }
       section {
-    min-height: 50vh;
+    min-height: 56vh;
     padding: 10rem 9% 2rem;
 }
 }
